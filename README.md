@@ -1,4 +1,6 @@
 A Simple Shop Template.
+---
+[Demo](https://laravelspa.github.io/Simple-Shop/index.html)
 
 [![Simple Shop](https://laravelspa.site/img/portfolio/simple-shop/full-page.jpeg "Simple Shop")](https://laravelspa.github.io/Simple-Shop/index.html)
 
@@ -15,6 +17,3 @@ A Simple Shop Template.
 
 ## Icon Library
 - **Font Awesome**
-
----
-[Demo](https://laravelspa.github.io/Simple-Shop/index.html)
