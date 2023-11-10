@@ -1,6 +1,6 @@
 A Simple Shop Template.
 
-![Simple Shop](https://laravelspa.site/img/portfolio/simple-shop/full-page.jpeg "Simple Shop")
+[![Simple Shop](https://laravelspa.site/img/portfolio/simple-shop/full-page.jpeg "Simple Shop")](https://laravelspa.github.io/Simple-Shop/index.html)
 
 ## Languages
 - **HTML** (Markup Language)
@@ -17,6 +17,4 @@ A Simple Shop Template.
 - **Font Awesome**
 
 ---
-{{< button href="https://laravelspa.github.io/Simple-Shop/index.html" target="_blank" >}}
-Demo
-{{< /button >}}
+[Demo](https://laravelspa.github.io/Simple-Shop/index.html)
